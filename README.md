@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Karina Michelato 👋
 
-- 🔭  Atualmente eu me formei em técnico em desenvolvimento de sistemas na Etec
+- 🔭  Atualmente eu me formei em técnico de desenvolvimento de sistemas na Etec
 - 🌱 I’m currently learning  Python e  Kotlin
 - 📫 How to reach me: karina_michelato@hotmail.com
 - 😄 Pronouns: ela / dela
